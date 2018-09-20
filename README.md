@@ -56,9 +56,9 @@ LICENSE就是授权用的，告诉别人怎么使用你的公开项目。（暂�
 #### 3、会使用到的java相关包
 
 [jsoup](https://github.com/jhy/jsoup)  
-jsoup是一个html解析器，因为html比较复杂，从其中提取信息，可能会花比较多的时间，所以采取使用现有解析器，回头可以再了解其中细节原理(-.-)。
+jsoup是一个html解析器，因为html比较复杂，从其中提取信息，可能会花比较多的时间，所以采取使用现有解析器，回头可以再了解其中细节原理(-.-)。版本使用1.11.3。
 
-[HttpClient](www.baidu.com)  
+[HttpClient](http://hc.apache.org/httpcomponents-client-4.5.x/index.html)  
 HttpClient就是在网络中请求信息的核心组件，获取网页就靠它，自己写的话，可能要从字节流开始写，也要了解HTTP协议和计算机网络，所以先直接用这个。版本使用4.5，log表示我也不懂0.0。
 
 
@@ -74,7 +74,7 @@ IDE使用Eclipse，大家都有，省事。
 提交时请对提交进行必要的描述(`此处为模糊要求，就是最好写下commit message`)
 
 ### 添加协作者
-找到对应项目的setting
+找到对应项目的setting页面，选择Collaborators，然后输入协作者的名字就可以了，协作者需要接受邀请才能完成添加。
 
 ## 备注
 
